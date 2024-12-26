@@ -1,0 +1,17 @@
+length.txt
+length,minimum_cost,algorithm,time_ns
+1,25,dynamic programming,533
+2,31,dynamic programming,4834
+3,60,dynamic programming,6901
+4,54,dynamic programming,18002
+5,89,dynamic programming,22536
+6,89,dynamic programming,41305
+7,124,dynamic programming,50339
+8,114,dynamic programming,113514
+9,169,dynamic programming,137316
+10,153,dynamic programming,125648
+11,182,dynamic programming,135582
+12,204,dynamic programming,186456
+13,213,dynamic programming,203991
+14,191,dynamic programming,132316
+15,240,dynamic programming,286401

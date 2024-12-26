@@ -1,0 +1,16 @@
+length,minimum_cost,algorithm,time_ns
+1,25,dynamic programming,533
+2,50,dynamic programming,600
+3,75,dynamic programming,800
+4,100,dynamic programming,800
+5,125,dynamic programming,933
+6,150,dynamic programming,966
+7,175,dynamic programming,999
+8,200,dynamic programming,866
+9,225,dynamic programming,800
+10,250,dynamic programming,800
+11,275,dynamic programming,866
+12,300,dynamic programming,866
+13,325,dynamic programming,800
+14,350,dynamic programming,966
+15,375,dynamic programming,833
